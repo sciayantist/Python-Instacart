@@ -25,7 +25,7 @@ Instacart datasets:
 ## Tools
 * Jupyter Notebook.
 * Python
-Python libraries: pandas, numpy, os, seaborn, matplotil, and scipy. 
+* Python libraries: pandas, numpy, os, seaborn, matplotil, and scipy. 
 
 
 ## Project Deliverables and Insights
