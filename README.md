@@ -14,18 +14,18 @@ Support Instacart stakeholders in uncovering their sales patterns to gain insigh
 A number of open-source datasets from Instacart is used. The customers dataset was created by Career Foundry Team for for the purpose of this project. Datasets contain information about products, sales, and customers data, among others.
 
 * Download the Instacart datasets [here](https://www.kaggle.com/datasets/psparks/instacart-market-basket-analysis).
-* Download the customers dataset [here]([http://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip](https://s3.amazonaws.com/coach-courses-us/public/courses/data-immersion/A4/A4_Data_Assets/customers.zip).
+* Download the customers dataset [here](https://s3.amazonaws.com/coach-courses-us/public/courses/data-immersion/A4/A4_Data_Assets/customers.zip).
 
 
 ## Citation 
 Instacart datasets:
-“The Instacart Online Grocery Shopping Dataset 2017”, Accessed from www.instacart.com/datasets/grocery-shopping-2017 via Kaggle.
+“The Instacart Online Grocery Shopping Dataset 2017”, Accessed from [here](www.instacart.com/datasets/grocery-shopping-2017) via Kaggle.
 
 
 ## Tools
 * Jupyter Notebook.
 * Python
-  libraries: pandas, numpy, os, seaborn, matplotil, and scipy. 
+Python libraries: pandas, numpy, os, seaborn, matplotil, and scipy. 
 
 
 ## Project Deliverables and Insights
